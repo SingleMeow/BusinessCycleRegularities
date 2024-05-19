@@ -1,4 +1,4 @@
-# BusinessCycleRegularities
+# BusinessCycleMacroIII
 In this exercise, you are asked to analyze the extend to which the numbered business cycle facts
 discussed in this chapter apply to (a) country A and (b) country B. To this end compute
 
